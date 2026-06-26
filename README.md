@@ -1,2 +1,17 @@
-# Self-Service-KPI-Analytics-Platform
-Self-Service KPI Analytics Platform enabling business users to explore key performance metrics, revenue trends, and segmentation insights. Builds automated KPI calculations and business-ready summaries using Python-based analytics workflows.
+# Self-Service KPI Analytics Platform
+
+## Overview
+Enterprise-style KPI analytics system for business decision-making.
+
+## Features
+- KPI computation engine
+- Revenue analytics
+- Customer segmentation
+- Summary reporting
+
+## Tech Stack
+Python, Pandas
+
+## Output
+- KPI dashboard-ready tables
+- Segment-wise insights
